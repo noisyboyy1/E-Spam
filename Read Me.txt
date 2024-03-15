@@ -1,0 +1,11 @@
+Hello, first of all, this is not a virus, but if you add too many commands and type the wrong command and your computer crashes, I will be held responsible.
+Anyway, spamming the video is very simple now. Take the e-spam.bat application in the file to your desktop, then right-click and edit.
+Click and you will see commands: Delete the exit text under Preference01 and then;
+start (link) - this link opens. If you use this command more than once, the screen of more than one link will appear, but less than the command you wrote.
+may come out
+calc.exe - this allows you to open the calculator
+mspaint.exe - opens the painting application
+IMPORTANT: If there is less output than what you type, quickly open backup applications
+Have a nice day
+Discord:Selam1907 (2024)
+Youtube:httpswww.youtube.comchannelUCiU7K0i7tiUB13LRiu4j8IQ
